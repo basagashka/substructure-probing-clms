@@ -1,0 +1,9 @@
+@misc{karnysheva2026probingchemicallanguagemodels,
+      title={Probing Chemical Language Models: Effects of Pre-training and Fine-tuning}, 
+      author={Anna Karnysheva and Dietrich Klakow and Ji-Ung Lee},
+      year={2026},
+      eprint={2607.02140},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2607.02140}, 
+}

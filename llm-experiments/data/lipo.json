@@ -1,0 +1,17 @@
+{
+    "lipo": [
+        "NumAromaticRings",
+        "fr_halogen",
+        "NumAliphaticRings"
+    ],
+    "lipo_sub": [
+        "NumAromaticCarbocycles",
+        "fr_benzene",
+        "NumAliphaticCarbocycles",
+        "NumAliphaticHeterocycles",
+        "NumSaturatedRings",
+        "NumSaturatedCarbocycles",
+        "NumSaturatedHeterocycles",
+        "NumAromaticHeterocycles"
+    ]
+}

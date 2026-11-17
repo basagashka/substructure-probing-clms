@@ -1,0 +1,18 @@
+# Which other config files to include in this config (can be used for prompt configs)
+defaults:
+  - _self_
+  - eval: default 
+  - inference: default
+  
+mode: "inference" # use eval or inference
+random_seed: 42
+model: "/scratch/common_models/gpt-oss-20b"
+task: "lipo"
+prompts: "data/prompts/basic.json"
+fgroup_mapping: "data/fgroup_mapping.json"
+lipo_fgroups: "data/lipo.json"
+hydro_fgroups: "data/hydro.json"
+
+results_path: "results/gpt_oss"
+data_path: "data/tasks"
+

@@ -1,0 +1,10 @@
+# Configuration for inference
+effort: "low" # reasoning effort
+include_eval: true # run evaluation after
+get_fgroups: false # also load binarized functional groups
+get_hints: true # also fetch 
+
+# Generation utils
+max_new_tokens: 4096 # start with 4k and increase as needed
+top_p: 0.95
+temperature: 0.8

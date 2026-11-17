@@ -1,0 +1,30 @@
+{
+    "hydro": [
+        "fr_aniline",
+        "fr_amide",
+        "fr_amidine",
+        "fr_ester",
+        "fr_ether",
+        "fr_guanido",
+        "fr_phenol",
+        "NumHAcceptors",
+        "NumHDonors",
+        "fr_Al_OH",
+        "fr_Ar_OH",
+        "fr_COO2",
+        "fr_NH0",
+        "fr_NH1",
+        "fr_NH2",
+        "fr_sulfonamd"
+    ],
+    "hydro_sub": [
+        "fr_Ar_NH",
+        "fr_COO",
+        "fr_Ar_COO",
+        "fr_Al_COO",
+        "fr_Al_OH_noTert",
+        "fr_prisulfonamd",
+        "fr_phenol_noOrthoHbond",
+        "fr_para_hydroxylation"
+    ]
+}

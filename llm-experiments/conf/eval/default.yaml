@@ -1,0 +1,3 @@
+# Configuration for evaluation
+response_file: "results/gpt_oss/low_lipo_basic.json_responses.jsonl" # Input -- response file
+summary: "results/gpt_oss/low_lipo_basic_summary.json" # Output -- summary file
